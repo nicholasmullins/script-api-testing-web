@@ -1,0 +1,1419 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_0_h1.png": "iter_00000_step_00001_0_h1.png", 
+            "iter_00000_step_00000_10_div.png": "iter_00000_step_00001_10_div.png", 
+            "iter_00000_step_00000_11_img.png": "iter_00000_step_00002_14_img.png", 
+            "iter_00000_step_00000_12_h3.png": "iter_00000_step_00002_5_h3.png", 
+            "iter_00000_step_00000_13_div.png": "iter_00000_step_00001_13_div.png", 
+            "iter_00000_step_00000_14_div.png": "iter_00000_step_00001_14_div.png", 
+            "iter_00000_step_00000_15_div.png": "iter_00000_step_00001_15_div.png", 
+            "iter_00000_step_00000_16_div.png": "iter_00000_step_00001_16_div.png", 
+            "iter_00000_step_00000_17_h1.png": "iter_00000_step_00001_17_h1.png", 
+            "iter_00000_step_00000_18_span.png": "iter_00000_step_00001_18_span.png", 
+            "iter_00000_step_00000_19_input.png": "iter_00000_step_00002_15_input.png", 
+            "iter_00000_step_00000_1_img.png": "iter_00000_step_00002_1_img.png", 
+            "iter_00000_step_00000_2_div.png": "iter_00000_step_00002_26_div.png", 
+            "iter_00000_step_00000_3_div.png": "iter_00000_step_00002_24_div.png", 
+            "iter_00000_step_00000_4_span.png": "iter_00000_step_00001_4_span.png", 
+            "iter_00000_step_00000_5_div.png": "iter_00000_step_00001_5_div.png", 
+            "iter_00000_step_00000_6_h3.png": "iter_00000_step_00001_6_h3.png", 
+            "iter_00000_step_00000_7_h3.png": "iter_00000_step_00002_12_h3.png", 
+            "iter_00000_step_00000_8_img.png": "iter_00000_step_00002_27_img.png", 
+            "iter_00000_step_00000_9_button.png": "iter_00000_step_00002_13_button.png", 
+            "iter_00000_step_00001_0_h1.png": "iter_00000_step_00001_0_h1.png", 
+            "iter_00000_step_00001_10_div.png": "iter_00000_step_00001_10_div.png", 
+            "iter_00000_step_00001_11_img.png": "iter_00000_step_00002_14_img.png", 
+            "iter_00000_step_00001_12_h3.png": "iter_00000_step_00002_5_h3.png", 
+            "iter_00000_step_00001_13_div.png": "iter_00000_step_00001_13_div.png", 
+            "iter_00000_step_00001_14_div.png": "iter_00000_step_00001_14_div.png", 
+            "iter_00000_step_00001_15_div.png": "iter_00000_step_00001_15_div.png", 
+            "iter_00000_step_00001_16_div.png": "iter_00000_step_00001_16_div.png", 
+            "iter_00000_step_00001_17_h1.png": "iter_00000_step_00001_17_h1.png", 
+            "iter_00000_step_00001_18_span.png": "iter_00000_step_00001_18_span.png", 
+            "iter_00000_step_00001_19_input.png": "iter_00000_step_00002_15_input.png", 
+            "iter_00000_step_00001_1_img.png": "iter_00000_step_00002_1_img.png", 
+            "iter_00000_step_00001_2_div.png": "iter_00000_step_00002_26_div.png", 
+            "iter_00000_step_00001_3_div.png": "iter_00000_step_00002_24_div.png", 
+            "iter_00000_step_00001_4_span.png": "iter_00000_step_00001_4_span.png", 
+            "iter_00000_step_00001_5_div.png": "iter_00000_step_00001_5_div.png", 
+            "iter_00000_step_00001_6_h3.png": "iter_00000_step_00001_6_h3.png", 
+            "iter_00000_step_00001_7_h3.png": "iter_00000_step_00002_12_h3.png", 
+            "iter_00000_step_00001_8_img.png": "iter_00000_step_00002_27_img.png", 
+            "iter_00000_step_00001_9_button.png": "iter_00000_step_00002_13_button.png", 
+            "iter_00000_step_00002_0_h1.png": "iter_00000_step_00002_0_h1.png", 
+            "iter_00000_step_00002_10_span.png": "iter_00000_step_00002_10_span.png", 
+            "iter_00000_step_00002_11_h3.png": "iter_00000_step_00002_11_h3.png", 
+            "iter_00000_step_00002_12_h3.png": "iter_00000_step_00002_12_h3.png", 
+            "iter_00000_step_00002_13_button.png": "iter_00000_step_00002_13_button.png", 
+            "iter_00000_step_00002_14_img.png": "iter_00000_step_00002_14_img.png", 
+            "iter_00000_step_00002_15_input.png": "iter_00000_step_00002_15_input.png", 
+            "iter_00000_step_00002_16_div.png": "iter_00000_step_00002_16_div.png", 
+            "iter_00000_step_00002_17_span.png": "iter_00000_step_00002_17_span.png", 
+            "iter_00000_step_00002_18_li.png": "iter_00000_step_00002_18_li.png", 
+            "iter_00000_step_00002_19_div.png": "iter_00000_step_00002_19_div.png", 
+            "iter_00000_step_00002_1_img.png": "iter_00000_step_00002_1_img.png", 
+            "iter_00000_step_00002_20_h1.png": "iter_00000_step_00002_20_h1.png", 
+            "iter_00000_step_00002_21_a.png": "iter_00000_step_00002_21_a.png", 
+            "iter_00000_step_00002_22_div.png": "iter_00000_step_00002_22_div.png", 
+            "iter_00000_step_00002_23_li.png": "iter_00000_step_00002_23_li.png", 
+            "iter_00000_step_00002_24_div.png": "iter_00000_step_00002_24_div.png", 
+            "iter_00000_step_00002_25_div.png": "iter_00000_step_00002_25_div.png", 
+            "iter_00000_step_00002_26_div.png": "iter_00000_step_00002_26_div.png", 
+            "iter_00000_step_00002_27_img.png": "iter_00000_step_00002_27_img.png", 
+            "iter_00000_step_00002_2_span.png": "iter_00000_step_00002_2_span.png", 
+            "iter_00000_step_00002_3_div.png": "iter_00000_step_00002_3_div.png", 
+            "iter_00000_step_00002_4_div.png": "iter_00000_step_00002_4_div.png", 
+            "iter_00000_step_00002_5_h3.png": "iter_00000_step_00002_5_h3.png", 
+            "iter_00000_step_00002_6_li.png": "iter_00000_step_00002_6_li.png", 
+            "iter_00000_step_00002_7_a.png": "iter_00000_step_00002_7_a.png", 
+            "iter_00000_step_00002_8_span.png": "iter_00000_step_00002_8_span.png", 
+            "iter_00000_step_00002_9_a.png": "iter_00000_step_00002_9_a.png"
+        }, 
+        "elems_to_infos": {
+            "iter_00000_step_00001_0_h1.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_0_h1.png", 
+                    "iter_00000_step_00000_0_h1.png"
+                ], 
+                "elem_info": {
+                    "class": "h1", 
+                    "hash": "meHk41Ed0LnXkxXwPwWJ5w==\n", 
+                    "height": 48, 
+                    "human_hash": "h1_X204_Y493_W316_H48", 
+                    "tag_name": "h1", 
+                    "text": "Subscribe to our newsletter", 
+                    "width": 316, 
+                    "x": 204, 
+                    "y": 493
+                }, 
+                "tags": [
+                    "h1", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Subscribe_to_our_newsletter"
+                ]
+            }, 
+            "iter_00000_step_00001_10_div.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_10_div.png", 
+                    "iter_00000_step_00000_10_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "N8JdEzzyxVRfHztW09crig==\n", 
+                    "height": 53, 
+                    "human_hash": "div_X204_Y493_W1512_H53", 
+                    "tag_name": "div", 
+                    "text": "Subscribe to our newsletter\n        \n          \n          Subscribe", 
+                    "width": 1512, 
+                    "x": 204, 
+                    "y": 493
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Subscribe_to_our_newsletter\n________\n__________\n__________Subscribe"
+                ]
+            }, 
+            "iter_00000_step_00001_13_div.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_13_div.png", 
+                    "iter_00000_step_00000_13_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "l2NFMtj/GWsweaB4U4QhdQ==\n", 
+                    "height": 45, 
+                    "human_hash": "div_X45_Y15_W45_H45", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 45, 
+                    "x": 45, 
+                    "y": 15
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00001_14_div.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_14_div.png", 
+                    "iter_00000_step_00000_14_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "z1ClhPInlPO5t7OEY6khIQ==\n", 
+                    "height": 45, 
+                    "human_hash": "div_X192_Y30_W1536_H45", 
+                    "tag_name": "div", 
+                    "text": "CastleRock   Sandbox", 
+                    "width": 1536, 
+                    "x": 192, 
+                    "y": 30
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "CastleRock___Sandbox"
+                ]
+            }, 
+            "iter_00000_step_00001_15_div.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_15_div.png", 
+                    "iter_00000_step_00000_15_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "SCaX4UKydPi4xajYC1a/3g==\n", 
+                    "height": 186, 
+                    "human_hash": "div_X192_Y581_W1536_H186", 
+                    "tag_name": "div", 
+                    "text": "Basic Sandbox\n          Simple, no frills but gets the job done.\n        \n        \n          \n          Deluxe Sandbox\n          Spacious, complex and creative for all your sandboxing needs. Great for kickstarting ideas!\n\n        \n        \n          \n          Custom Sandbox\n          Adjust size and shape to what whatever your space requires. Get a quote and find out today!", 
+                    "width": 1536, 
+                    "x": 192, 
+                    "y": 581
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Basic_Sandbox\n__________Simple,_no_frills_but_gets_the_job_done.\n________\n________\n__________\n__________Deluxe_Sandbox\n__________Spacious,_complex_and_creative_for_all_your_sandboxing_needs._Great_for_kickstarting_ideas!\n\n________\n________\n__________\n__________Custom_Sandbox\n__________Adjust_size_and_shape_to_what_whatever_your_space_requires._Get_a_quote_and_find_out_today!"
+                ]
+            }, 
+            "iter_00000_step_00001_16_div.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_16_div.png", 
+                    "iter_00000_step_00000_16_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "sWwC0TcOxxB2gTA8Jn2VPg==\n", 
+                    "height": 45, 
+                    "human_hash": "div_X192_Y30_W318_H45", 
+                    "tag_name": "div", 
+                    "text": "CastleRock   Sandbox", 
+                    "width": 318, 
+                    "x": 192, 
+                    "y": 30
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "CastleRock___Sandbox"
+                ]
+            }, 
+            "iter_00000_step_00001_17_h1.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_17_h1.png", 
+                    "iter_00000_step_00000_17_h1.png"
+                ], 
+                "elem_info": {
+                    "class": "h1", 
+                    "hash": "jKDLyO5kwGERcb3GVFUbqg==\n", 
+                    "height": 45, 
+                    "human_hash": "h1_X192_Y30_W318_H45", 
+                    "tag_name": "h1", 
+                    "text": "CastleRock   Sandbox", 
+                    "width": 318, 
+                    "x": 192, 
+                    "y": 30
+                }, 
+                "tags": [
+                    "h1", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "CastleRock___Sandbox"
+                ]
+            }, 
+            "iter_00000_step_00001_18_span.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_18_span.png", 
+                    "iter_00000_step_00000_18_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "FQ+lENxpZ/q635MT5A1ZYQ==\n", 
+                    "height": 45, 
+                    "human_hash": "span_X55_Y15_W25_H45", 
+                    "tag_name": "span", 
+                    "text": "", 
+                    "width": 25, 
+                    "x": 55, 
+                    "y": 15
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00001_4_span.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_4_span.png", 
+                    "iter_00000_step_00000_4_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "yVmT9dN7e1CmyP+bhL6KRA==\n", 
+                    "height": 43, 
+                    "human_hash": "span_X192_Y31_W181_H43", 
+                    "tag_name": "span", 
+                    "text": "CastleRock", 
+                    "width": 181, 
+                    "x": 192, 
+                    "y": 31
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "CastleRock"
+                ]
+            }, 
+            "iter_00000_step_00001_5_div.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_5_div.png", 
+                    "iter_00000_step_00000_5_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "7NtazyQodNqPMIaviF7cog==\n", 
+                    "height": 164, 
+                    "human_hash": "div_X192_Y581_W461_H164", 
+                    "tag_name": "div", 
+                    "text": "Basic Sandbox\n          Simple, no frills but gets the job done.", 
+                    "width": 461, 
+                    "x": 192, 
+                    "y": 581
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Basic_Sandbox\n__________Simple,_no_frills_but_gets_the_job_done."
+                ]
+            }, 
+            "iter_00000_step_00001_6_h3.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_6_h3.png", 
+                    "iter_00000_step_00000_6_h3.png"
+                ], 
+                "elem_info": {
+                    "class": "h3", 
+                    "hash": "gfXfhbV6REInWwBr6Ml56w==\n", 
+                    "height": 26, 
+                    "human_hash": "h3_X202_Y687_W441_H26", 
+                    "tag_name": "h3", 
+                    "text": "Basic Sandbox", 
+                    "width": 441, 
+                    "x": 202, 
+                    "y": 687
+                }, 
+                "tags": [
+                    "h3", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Basic_Sandbox"
+                ]
+            }, 
+            "iter_00000_step_00002_0_h1.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_0_h1.png"
+                ], 
+                "elem_info": {
+                    "class": "h1", 
+                    "hash": "meHk41Ed0LnXkxXwPwWJ5w==\n", 
+                    "height": 48, 
+                    "human_hash": "h1_X204_Y493_W316_H48", 
+                    "tag_name": "h1", 
+                    "text": "Subscribe to our newsletter", 
+                    "width": 316, 
+                    "x": 204, 
+                    "y": 493
+                }, 
+                "tags": [
+                    "h1", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Subscribe_to_our_newsletter"
+                ]
+            }, 
+            "iter_00000_step_00002_10_span.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_10_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "2DuwiijMusf1/rTCyDWHkg==\n", 
+                    "height": 22, 
+                    "human_hash": "span_X216_Y224_W14_H22", 
+                    "tag_name": "span", 
+                    "text": "", 
+                    "width": 14, 
+                    "x": 216, 
+                    "y": 224
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00002_11_h3.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_11_h3.png"
+                ], 
+                "elem_info": {
+                    "class": "h3", 
+                    "hash": "gfXfhbV6REInWwBr6Ml56w==\n", 
+                    "height": 26, 
+                    "human_hash": "h3_X202_Y687_W441_H26", 
+                    "tag_name": "h3", 
+                    "text": "Basic Sandbox", 
+                    "width": 441, 
+                    "x": 202, 
+                    "y": 687
+                }, 
+                "tags": [
+                    "h3", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Basic_Sandbox"
+                ]
+            }, 
+            "iter_00000_step_00002_12_h3.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00002_12_h3.png", 
+                    "iter_00000_step_00001_7_h3.png", 
+                    "iter_00000_step_00000_7_h3.png"
+                ], 
+                "elem_info": {
+                    "class": "h3", 
+                    "hash": "CoHf+ziG5CdzE8YbJ0BoqQ==\n", 
+                    "height": 26, 
+                    "human_hash": "h3_X663_Y687_W441_H26", 
+                    "tag_name": "h3", 
+                    "text": "Deluxe Sandbox", 
+                    "width": 441, 
+                    "x": 663, 
+                    "y": 687
+                }, 
+                "tags": [
+                    "h3", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Deluxe_Sandbox"
+                ]
+            }, 
+            "iter_00000_step_00002_13_button.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00002_13_button.png", 
+                    "iter_00000_step_00001_9_button.png", 
+                    "iter_00000_step_00000_9_button.png"
+                ], 
+                "elem_info": {
+                    "class": "button", 
+                    "hash": "IjzMvobVVoLLt3xSxzV7yw==\n", 
+                    "height": 38, 
+                    "human_hash": "button_X1610_Y508_W106_H38", 
+                    "tag_name": "button", 
+                    "text": "Subscribe", 
+                    "width": 106, 
+                    "x": 1610, 
+                    "y": 508
+                }, 
+                "tags": [
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Subscribe"
+                ]
+            }, 
+            "iter_00000_step_00002_14_img.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00002_14_img.png", 
+                    "iter_00000_step_00001_11_img.png", 
+                    "iter_00000_step_00000_11_img.png"
+                ], 
+                "elem_info": {
+                    "class": "img", 
+                    "hash": "5T3VqX5KYh7lbYwiFH7XCg==\n", 
+                    "height": 90, 
+                    "human_hash": "img_X377_Y591_W90_H90", 
+                    "tag_name": "img", 
+                    "text": "", 
+                    "width": 90, 
+                    "x": 377, 
+                    "y": 591
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "img"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00002_15_input.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00002_15_input.png", 
+                    "iter_00000_step_00001_19_input.png", 
+                    "iter_00000_step_00000_19_input.png"
+                ], 
+                "elem_info": {
+                    "class": "input", 
+                    "hash": "aFCPhVcLzoy6JJOMA/u3ug==\n", 
+                    "height": 25, 
+                    "human_hash": "input_X1356_Y515_W250_H25", 
+                    "tag_name": "input", 
+                    "text": "", 
+                    "width": 250, 
+                    "x": 1356, 
+                    "y": 515
+                }, 
+                "tags": [
+                    "input", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00002_16_div.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_16_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "sWwC0TcOxxB2gTA8Jn2VPg==\n", 
+                    "height": 45, 
+                    "human_hash": "div_X192_Y30_W318_H45", 
+                    "tag_name": "div", 
+                    "text": "CastleRock   Sandbox", 
+                    "width": 318, 
+                    "x": 192, 
+                    "y": 30
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "CastleRock___Sandbox"
+                ]
+            }, 
+            "iter_00000_step_00002_17_span.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_17_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "h9/jjR6aC07PZKUkaGLcUA==\n", 
+                    "height": 45, 
+                    "human_hash": "span_X273_Y15_W19_H45", 
+                    "tag_name": "span", 
+                    "text": "", 
+                    "width": 19, 
+                    "x": 273, 
+                    "y": 15
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00002_18_li.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_18_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "p6ZJQjQT5Bx4HKAZHGxAzQ==\n", 
+                    "height": 61, 
+                    "human_hash": "li_X0_Y143_W250_H61", 
+                    "tag_name": "li", 
+                    "text": "NEWS\n            \n          \n          \n            Awards\n            Events\n            Awards", 
+                    "width": 250, 
+                    "x": 0, 
+                    "y": 143
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "NEWS\n____________\n__________\n__________\n____________Awards\n____________Events\n____________Awards"
+                ]
+            }, 
+            "iter_00000_step_00002_19_div.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_19_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "z1ClhPInlPO5t7OEY6khIQ==\n", 
+                    "height": 45, 
+                    "human_hash": "div_X192_Y30_W1536_H45", 
+                    "tag_name": "div", 
+                    "text": "CastleRock   Sandbox", 
+                    "width": 1536, 
+                    "x": 192, 
+                    "y": 30
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "CastleRock___Sandbox"
+                ]
+            }, 
+            "iter_00000_step_00002_1_img.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00002_1_img.png", 
+                    "iter_00000_step_00001_1_img.png", 
+                    "iter_00000_step_00000_1_img.png"
+                ], 
+                "elem_info": {
+                    "class": "img", 
+                    "hash": "Pky3sISk+++SkM8OyTnHfg==\n", 
+                    "height": 90, 
+                    "human_hash": "img_X1299_Y591_W90_H90", 
+                    "tag_name": "img", 
+                    "text": "", 
+                    "width": 90, 
+                    "x": 1299, 
+                    "y": 591
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "img"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00002_20_h1.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_20_h1.png"
+                ], 
+                "elem_info": {
+                    "class": "h1", 
+                    "hash": "jKDLyO5kwGERcb3GVFUbqg==\n", 
+                    "height": 45, 
+                    "human_hash": "h1_X192_Y30_W318_H45", 
+                    "tag_name": "h1", 
+                    "text": "CastleRock   Sandbox", 
+                    "width": 318, 
+                    "x": 192, 
+                    "y": 30
+                }, 
+                "tags": [
+                    "h1", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "CastleRock___Sandbox"
+                ]
+            }, 
+            "iter_00000_step_00002_21_a.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_21_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "KKn7G3ao2i8U32Nwc8jQTQ==\n", 
+                    "height": 60, 
+                    "human_hash": "a_X0_Y266_W250_H60", 
+                    "tag_name": "a", 
+                    "text": "About", 
+                    "width": 250, 
+                    "x": 0, 
+                    "y": 266
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "About"
+                ]
+            }, 
+            "iter_00000_step_00002_22_div.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_22_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "X7f/XQPWJlvxjBL9LRFBSA==\n", 
+                    "height": 45, 
+                    "human_hash": "div_X260_Y15_W45_H45", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 45, 
+                    "x": 260, 
+                    "y": 15
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00002_23_li.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_23_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "UozeVgyDutvtp3sbFunlJg==\n", 
+                    "height": 62, 
+                    "human_hash": "li_X0_Y265_W250_H62", 
+                    "tag_name": "li", 
+                    "text": "About", 
+                    "width": 250, 
+                    "x": 0, 
+                    "y": 265
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "About"
+                ]
+            }, 
+            "iter_00000_step_00002_24_div.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00002_24_div.png", 
+                    "iter_00000_step_00001_3_div.png", 
+                    "iter_00000_step_00000_3_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "YZs4PRL0dC0UTGALHqbzhg==\n", 
+                    "height": 186, 
+                    "human_hash": "div_X1114_Y581_W461_H186", 
+                    "tag_name": "div", 
+                    "text": "Custom Sandbox\n          Adjust size and shape to what whatever your space requires. Get a quote and find out today!", 
+                    "width": 461, 
+                    "x": 1114, 
+                    "y": 581
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Custom_Sandbox\n__________Adjust_size_and_shape_to_what_whatever_your_space_requires._Get_a_quote_and_find_out_today!"
+                ]
+            }, 
+            "iter_00000_step_00002_25_div.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_25_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "21LZz/cKQo+QJTJYpiD7mQ==\n", 
+                    "height": 65, 
+                    "human_hash": "div_X0_Y78_W250_H65", 
+                    "tag_name": "div", 
+                    "text": "Side Menu", 
+                    "width": 250, 
+                    "x": 0, 
+                    "y": 78
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Side_Menu"
+                ]
+            }, 
+            "iter_00000_step_00002_26_div.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00002_26_div.png", 
+                    "iter_00000_step_00001_2_div.png", 
+                    "iter_00000_step_00000_2_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "zBTBYXOQTVVo7JVeguMNGQ==\n", 
+                    "height": 186, 
+                    "human_hash": "div_X653_Y581_W461_H186", 
+                    "tag_name": "div", 
+                    "text": "Deluxe Sandbox\n          Spacious, complex and creative for all your sandboxing needs. Great for kickstarting ideas!", 
+                    "width": 461, 
+                    "x": 653, 
+                    "y": 581
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Deluxe_Sandbox\n__________Spacious,_complex_and_creative_for_all_your_sandboxing_needs._Great_for_kickstarting_ideas!"
+                ]
+            }, 
+            "iter_00000_step_00002_27_img.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00002_27_img.png", 
+                    "iter_00000_step_00001_8_img.png", 
+                    "iter_00000_step_00000_8_img.png"
+                ], 
+                "elem_info": {
+                    "class": "img", 
+                    "hash": "BL91MZiSXelOsadPQVxymw==\n", 
+                    "height": 90, 
+                    "human_hash": "img_X838_Y591_W90_H90", 
+                    "tag_name": "img", 
+                    "text": "", 
+                    "width": 90, 
+                    "x": 838, 
+                    "y": 591
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "img"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00002_2_span.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_2_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "yVmT9dN7e1CmyP+bhL6KRA==\n", 
+                    "height": 43, 
+                    "human_hash": "span_X192_Y31_W181_H43", 
+                    "tag_name": "span", 
+                    "text": "CastleRock", 
+                    "width": 181, 
+                    "x": 192, 
+                    "y": 31
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "CastleRock"
+                ]
+            }, 
+            "iter_00000_step_00002_3_div.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_3_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "7NtazyQodNqPMIaviF7cog==\n", 
+                    "height": 164, 
+                    "human_hash": "div_X192_Y581_W461_H164", 
+                    "tag_name": "div", 
+                    "text": "Basic Sandbox\n          Simple, no frills but gets the job done.", 
+                    "width": 461, 
+                    "x": 192, 
+                    "y": 581
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Basic_Sandbox\n__________Simple,_no_frills_but_gets_the_job_done."
+                ]
+            }, 
+            "iter_00000_step_00002_4_div.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_4_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "N8JdEzzyxVRfHztW09crig==\n", 
+                    "height": 53, 
+                    "human_hash": "div_X204_Y493_W1512_H53", 
+                    "tag_name": "div", 
+                    "text": "Subscribe to our newsletter\n        \n          \n          Subscribe", 
+                    "width": 1512, 
+                    "x": 204, 
+                    "y": 493
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Subscribe_to_our_newsletter\n________\n__________\n__________Subscribe"
+                ]
+            }, 
+            "iter_00000_step_00002_5_h3.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00002_5_h3.png", 
+                    "iter_00000_step_00001_12_h3.png", 
+                    "iter_00000_step_00000_12_h3.png"
+                ], 
+                "elem_info": {
+                    "class": "h3", 
+                    "hash": "iSkhR7grcMwpDOeJZtkRBQ==\n", 
+                    "height": 26, 
+                    "human_hash": "h3_X1124_Y687_W441_H26", 
+                    "tag_name": "h3", 
+                    "text": "Custom Sandbox", 
+                    "width": 441, 
+                    "x": 1124, 
+                    "y": 687
+                }, 
+                "tags": [
+                    "h3", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Custom_Sandbox"
+                ]
+            }, 
+            "iter_00000_step_00002_6_li.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_6_li.png"
+                ], 
+                "elem_info": {
+                    "class": "li", 
+                    "hash": "KYt+aB6c+zH21h3oqf3gzg==\n", 
+                    "height": 61, 
+                    "human_hash": "li_X0_Y204_W250_H61", 
+                    "tag_name": "li", 
+                    "text": "Products\n            \n          \n          \n            basic sandbox\n            deluxe sandbox\n            custom sandbox", 
+                    "width": 250, 
+                    "x": 0, 
+                    "y": 204
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "li"
+                ], 
+                "text": [
+                    "Products\n____________\n__________\n__________\n____________basic_sandbox\n____________deluxe_sandbox\n____________custom_sandbox"
+                ]
+            }, 
+            "iter_00000_step_00002_7_a.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_7_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "bhhQsovHmZFXvqTdRK5kaA==\n", 
+                    "height": 60, 
+                    "human_hash": "a_X0_Y205_W250_H60", 
+                    "tag_name": "a", 
+                    "text": "Products", 
+                    "width": 250, 
+                    "x": 0, 
+                    "y": 205
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Products"
+                ]
+            }, 
+            "iter_00000_step_00002_8_span.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_8_span.png"
+                ], 
+                "elem_info": {
+                    "class": "span", 
+                    "hash": "4He9/nyj7Gcyef/Kz0SoYw==\n", 
+                    "height": 22, 
+                    "human_hash": "span_X216_Y163_W14_H22", 
+                    "tag_name": "span", 
+                    "text": "", 
+                    "width": 14, 
+                    "x": 216, 
+                    "y": 163
+                }, 
+                "tags": [
+                    "span", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00002_9_a.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00002_9_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "uqikvBQbiGVwndSE3JBI8Q==\n", 
+                    "height": 60, 
+                    "human_hash": "a_X0_Y144_W250_H60", 
+                    "tag_name": "a", 
+                    "text": "NEWS", 
+                    "width": 250, 
+                    "x": 0, 
+                    "y": 144
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "NEWS"
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "iter_00000_step_00001_15_div.png", 
+            "iter_00000_step_00002_26_div.png", 
+            "iter_00000_step_00002_24_div.png", 
+            "iter_00000_step_00001_10_div.png", 
+            "iter_00000_step_00002_4_div.png", 
+            "iter_00000_step_00001_5_div.png", 
+            "iter_00000_step_00002_3_div.png", 
+            "iter_00000_step_00001_14_div.png", 
+            "iter_00000_step_00002_19_div.png", 
+            "iter_00000_step_00002_25_div.png", 
+            "iter_00000_step_00002_23_li.png", 
+            "iter_00000_step_00002_18_li.png", 
+            "iter_00000_step_00002_6_li.png", 
+            "iter_00000_step_00001_0_h1.png", 
+            "iter_00000_step_00002_0_h1.png", 
+            "iter_00000_step_00002_21_a.png", 
+            "iter_00000_step_00002_7_a.png", 
+            "iter_00000_step_00002_9_a.png", 
+            "iter_00000_step_00002_20_h1.png", 
+            "iter_00000_step_00001_17_h1.png", 
+            "iter_00000_step_00002_16_div.png", 
+            "iter_00000_step_00001_16_div.png", 
+            "iter_00000_step_00001_6_h3.png", 
+            "iter_00000_step_00002_11_h3.png", 
+            "iter_00000_step_00002_5_h3.png", 
+            "iter_00000_step_00002_12_h3.png", 
+            "iter_00000_step_00002_14_img.png", 
+            "iter_00000_step_00002_1_img.png", 
+            "iter_00000_step_00002_27_img.png", 
+            "iter_00000_step_00002_2_span.png", 
+            "iter_00000_step_00001_4_span.png", 
+            "iter_00000_step_00002_15_input.png", 
+            "iter_00000_step_00002_13_button.png", 
+            "iter_00000_step_00001_13_div.png", 
+            "iter_00000_step_00002_22_div.png", 
+            "iter_00000_step_00001_18_span.png", 
+            "iter_00000_step_00002_17_span.png", 
+            "iter_00000_step_00002_8_span.png", 
+            "iter_00000_step_00002_10_span.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00001_0_h1.png": [
+                "iter_00000_step_00001_0_h1.png", 
+                "iter_00000_step_00000_0_h1.png"
+            ], 
+            "iter_00000_step_00001_10_div.png": [
+                "iter_00000_step_00001_10_div.png", 
+                "iter_00000_step_00000_10_div.png"
+            ], 
+            "iter_00000_step_00001_13_div.png": [
+                "iter_00000_step_00001_13_div.png", 
+                "iter_00000_step_00000_13_div.png"
+            ], 
+            "iter_00000_step_00001_14_div.png": [
+                "iter_00000_step_00001_14_div.png", 
+                "iter_00000_step_00000_14_div.png"
+            ], 
+            "iter_00000_step_00001_15_div.png": [
+                "iter_00000_step_00001_15_div.png", 
+                "iter_00000_step_00000_15_div.png"
+            ], 
+            "iter_00000_step_00001_16_div.png": [
+                "iter_00000_step_00001_16_div.png", 
+                "iter_00000_step_00000_16_div.png"
+            ], 
+            "iter_00000_step_00001_17_h1.png": [
+                "iter_00000_step_00001_17_h1.png", 
+                "iter_00000_step_00000_17_h1.png"
+            ], 
+            "iter_00000_step_00001_18_span.png": [
+                "iter_00000_step_00001_18_span.png", 
+                "iter_00000_step_00000_18_span.png"
+            ], 
+            "iter_00000_step_00001_4_span.png": [
+                "iter_00000_step_00001_4_span.png", 
+                "iter_00000_step_00000_4_span.png"
+            ], 
+            "iter_00000_step_00001_5_div.png": [
+                "iter_00000_step_00001_5_div.png", 
+                "iter_00000_step_00000_5_div.png"
+            ], 
+            "iter_00000_step_00001_6_h3.png": [
+                "iter_00000_step_00001_6_h3.png", 
+                "iter_00000_step_00000_6_h3.png"
+            ], 
+            "iter_00000_step_00002_0_h1.png": [
+                "iter_00000_step_00002_0_h1.png"
+            ], 
+            "iter_00000_step_00002_10_span.png": [
+                "iter_00000_step_00002_10_span.png"
+            ], 
+            "iter_00000_step_00002_11_h3.png": [
+                "iter_00000_step_00002_11_h3.png"
+            ], 
+            "iter_00000_step_00002_12_h3.png": [
+                "iter_00000_step_00002_12_h3.png", 
+                "iter_00000_step_00001_7_h3.png", 
+                "iter_00000_step_00000_7_h3.png"
+            ], 
+            "iter_00000_step_00002_13_button.png": [
+                "iter_00000_step_00002_13_button.png", 
+                "iter_00000_step_00001_9_button.png", 
+                "iter_00000_step_00000_9_button.png"
+            ], 
+            "iter_00000_step_00002_14_img.png": [
+                "iter_00000_step_00002_14_img.png", 
+                "iter_00000_step_00001_11_img.png", 
+                "iter_00000_step_00000_11_img.png"
+            ], 
+            "iter_00000_step_00002_15_input.png": [
+                "iter_00000_step_00002_15_input.png", 
+                "iter_00000_step_00001_19_input.png", 
+                "iter_00000_step_00000_19_input.png"
+            ], 
+            "iter_00000_step_00002_16_div.png": [
+                "iter_00000_step_00002_16_div.png"
+            ], 
+            "iter_00000_step_00002_17_span.png": [
+                "iter_00000_step_00002_17_span.png"
+            ], 
+            "iter_00000_step_00002_18_li.png": [
+                "iter_00000_step_00002_18_li.png"
+            ], 
+            "iter_00000_step_00002_19_div.png": [
+                "iter_00000_step_00002_19_div.png"
+            ], 
+            "iter_00000_step_00002_1_img.png": [
+                "iter_00000_step_00002_1_img.png", 
+                "iter_00000_step_00001_1_img.png", 
+                "iter_00000_step_00000_1_img.png"
+            ], 
+            "iter_00000_step_00002_20_h1.png": [
+                "iter_00000_step_00002_20_h1.png"
+            ], 
+            "iter_00000_step_00002_21_a.png": [
+                "iter_00000_step_00002_21_a.png"
+            ], 
+            "iter_00000_step_00002_22_div.png": [
+                "iter_00000_step_00002_22_div.png"
+            ], 
+            "iter_00000_step_00002_23_li.png": [
+                "iter_00000_step_00002_23_li.png"
+            ], 
+            "iter_00000_step_00002_24_div.png": [
+                "iter_00000_step_00002_24_div.png", 
+                "iter_00000_step_00001_3_div.png", 
+                "iter_00000_step_00000_3_div.png"
+            ], 
+            "iter_00000_step_00002_25_div.png": [
+                "iter_00000_step_00002_25_div.png"
+            ], 
+            "iter_00000_step_00002_26_div.png": [
+                "iter_00000_step_00002_26_div.png", 
+                "iter_00000_step_00001_2_div.png", 
+                "iter_00000_step_00000_2_div.png"
+            ], 
+            "iter_00000_step_00002_27_img.png": [
+                "iter_00000_step_00002_27_img.png", 
+                "iter_00000_step_00001_8_img.png", 
+                "iter_00000_step_00000_8_img.png"
+            ], 
+            "iter_00000_step_00002_2_span.png": [
+                "iter_00000_step_00002_2_span.png"
+            ], 
+            "iter_00000_step_00002_3_div.png": [
+                "iter_00000_step_00002_3_div.png"
+            ], 
+            "iter_00000_step_00002_4_div.png": [
+                "iter_00000_step_00002_4_div.png"
+            ], 
+            "iter_00000_step_00002_5_h3.png": [
+                "iter_00000_step_00002_5_h3.png", 
+                "iter_00000_step_00001_12_h3.png", 
+                "iter_00000_step_00000_12_h3.png"
+            ], 
+            "iter_00000_step_00002_6_li.png": [
+                "iter_00000_step_00002_6_li.png"
+            ], 
+            "iter_00000_step_00002_7_a.png": [
+                "iter_00000_step_00002_7_a.png"
+            ], 
+            "iter_00000_step_00002_8_span.png": [
+                "iter_00000_step_00002_8_span.png"
+            ], 
+            "iter_00000_step_00002_9_a.png": [
+                "iter_00000_step_00002_9_a.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00001_screenshot.png": "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00002_screenshot.png": "iter_00000_step_00002_screenshot.png"
+        }, 
+        "screens_to_elems": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00001_0_h1.png", 
+                "iter_00000_step_00002_1_img.png", 
+                "iter_00000_step_00002_26_div.png", 
+                "iter_00000_step_00002_24_div.png", 
+                "iter_00000_step_00001_4_span.png", 
+                "iter_00000_step_00001_5_div.png", 
+                "iter_00000_step_00001_6_h3.png", 
+                "iter_00000_step_00002_12_h3.png", 
+                "iter_00000_step_00002_27_img.png", 
+                "iter_00000_step_00002_13_button.png", 
+                "iter_00000_step_00001_10_div.png", 
+                "iter_00000_step_00002_14_img.png", 
+                "iter_00000_step_00002_5_h3.png", 
+                "iter_00000_step_00001_13_div.png", 
+                "iter_00000_step_00001_14_div.png", 
+                "iter_00000_step_00001_15_div.png", 
+                "iter_00000_step_00001_16_div.png", 
+                "iter_00000_step_00001_17_h1.png", 
+                "iter_00000_step_00001_18_span.png", 
+                "iter_00000_step_00002_15_input.png"
+            ], 
+            "iter_00000_step_00002_screenshot.png": [
+                "iter_00000_step_00002_0_h1.png", 
+                "iter_00000_step_00002_1_img.png", 
+                "iter_00000_step_00002_2_span.png", 
+                "iter_00000_step_00002_3_div.png", 
+                "iter_00000_step_00002_4_div.png", 
+                "iter_00000_step_00002_5_h3.png", 
+                "iter_00000_step_00002_6_li.png", 
+                "iter_00000_step_00002_7_a.png", 
+                "iter_00000_step_00002_8_span.png", 
+                "iter_00000_step_00002_9_a.png", 
+                "iter_00000_step_00002_10_span.png", 
+                "iter_00000_step_00002_11_h3.png", 
+                "iter_00000_step_00002_12_h3.png", 
+                "iter_00000_step_00002_13_button.png", 
+                "iter_00000_step_00002_14_img.png", 
+                "iter_00000_step_00002_15_input.png", 
+                "iter_00000_step_00002_16_div.png", 
+                "iter_00000_step_00002_17_span.png", 
+                "iter_00000_step_00002_18_li.png", 
+                "iter_00000_step_00002_19_div.png", 
+                "iter_00000_step_00002_20_h1.png", 
+                "iter_00000_step_00002_21_a.png", 
+                "iter_00000_step_00002_22_div.png", 
+                "iter_00000_step_00002_23_li.png", 
+                "iter_00000_step_00002_24_div.png", 
+                "iter_00000_step_00002_25_div.png", 
+                "iter_00000_step_00002_26_div.png", 
+                "iter_00000_step_00002_27_img.png"
+            ]
+        }, 
+        "screens_to_infos": {
+            "iter_00000_step_00000_screenshot.png": {
+                "dupe_count": [
+                    2
+                ], 
+                "dupes": [
+                    "iter_00000_step_00000_screenshot.png", 
+                    "iter_00000_step_00001_screenshot.png"
+                ], 
+                "tags": [
+                    "span", 
+                    "img", 
+                    "h3", 
+                    "button", 
+                    "h1", 
+                    "all_screens", 
+                    "input", 
+                    "div"
+                ], 
+                "text": [
+                    "", 
+                    "castlerock___sandbox", 
+                    "custom_sandbox\n__________adjust_size_and_shape_to_what_whatever_your_space_requires._get_a_quote_and_find_out_today!", 
+                    "basic_sandbox", 
+                    "deluxe_sandbox\n__________spacious,_complex_and_creative_for_all_your_sandboxing_needs._great_for_kickstarting_ideas!", 
+                    "custom_sandbox", 
+                    "subscribe", 
+                    "basic_sandbox\n__________simple,_no_frills_but_gets_the_job_done.", 
+                    "deluxe_sandbox", 
+                    "subscribe_to_our_newsletter", 
+                    "subscribe_to_our_newsletter\n________\n__________\n__________subscribe", 
+                    "castlerock", 
+                    "basic_sandbox\n__________simple,_no_frills_but_gets_the_job_done.\n________\n________\n__________\n__________deluxe_sandbox\n__________spacious,_complex_and_creative_for_all_your_sandboxing_needs._great_for_kickstarting_ideas!\n\n________\n________\n__________\n__________custom_sandbox\n__________adjust_size_and_shape_to_what_whatever_your_space_requires._get_a_quote_and_find_out_today!"
+                ]
+            }, 
+            "iter_00000_step_00002_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00002_screenshot.png"
+                ], 
+                "tags": [
+                    "a", 
+                    "span", 
+                    "img", 
+                    "h3", 
+                    "button", 
+                    "h1", 
+                    "li", 
+                    "all_screens", 
+                    "input", 
+                    "div"
+                ], 
+                "text": [
+                    "", 
+                    "about", 
+                    "castlerock___sandbox", 
+                    "custom_sandbox\n__________adjust_size_and_shape_to_what_whatever_your_space_requires._get_a_quote_and_find_out_today!", 
+                    "custom_sandbox", 
+                    "news\n____________\n__________\n__________\n____________awards\n____________events\n____________awards", 
+                    "basic_sandbox", 
+                    "subscribe", 
+                    "side_menu", 
+                    "basic_sandbox\n__________simple,_no_frills_but_gets_the_job_done.", 
+                    "deluxe_sandbox", 
+                    "products", 
+                    "products\n____________\n__________\n__________\n____________basic_sandbox\n____________deluxe_sandbox\n____________custom_sandbox", 
+                    "subscribe_to_our_newsletter", 
+                    "news", 
+                    "subscribe_to_our_newsletter\n________\n__________\n__________subscribe", 
+                    "castlerock", 
+                    "deluxe_sandbox\n__________spacious,_complex_and_creative_for_all_your_sandboxing_needs._great_for_kickstarting_ideas!"
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "iter_00000_step_00002_screenshot.png", 
+            "iter_00000_step_00000_screenshot.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_screenshot.png", 
+                "iter_00000_step_00001_screenshot.png"
+            ], 
+            "iter_00000_step_00002_screenshot.png": [
+                "iter_00000_step_00002_screenshot.png"
+            ]
+        }
+    }
+}

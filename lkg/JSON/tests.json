@@ -1,0 +1,18 @@
+{
+    "Basic Gestures - Individual Scripts": {
+        "description": "", 
+        "is_deactivated": false, 
+        "steps": [], 
+        "tags": [], 
+        "temp_id": "5c613ac0-8d09-11eb-9b8c-787b8ade0f4b", 
+        "title": "Basic Gestures - Individual Scripts"
+    }, 
+    "Basic Gestures - One Script": {
+        "description": "", 
+        "is_deactivated": false, 
+        "steps": [], 
+        "tags": [], 
+        "temp_id": "623f19f8-8d09-11eb-ab04-787b8ade0f4b", 
+        "title": "Basic Gestures - One Script"
+    }
+}
